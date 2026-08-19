@@ -5,74 +5,74 @@ A curated collection of animated GIFs and pixel art assets for beautiful GitHub 
 </p>
 <p align="center">
 
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(1).gif?raw=true" width="180">
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(2).gif?raw=true" width="180">
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(3).gif?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(1).png?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(2).png?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(3).png?raw=true" width="180">
 
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(4).gif?raw=true" width="180">
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(5).gif?raw=true" width="180">
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(6).gif?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(4).png?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(5).png?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(6).png?raw=true" width="180">
 
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(7).gif?raw=true" width="180">
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(8).gif?raw=true" width="180">
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(9).gif?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(7).png?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(8).png?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(9).png?raw=true" width="180">
 
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(10).gif?raw=true" width="180">
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(11).gif?raw=true" width="180">
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(12).gif?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(10).png?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(11).png?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(12).png?raw=true" width="180">
 
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(13).gif?raw=true" width="180">
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(14).gif?raw=true" width="180">
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(15).gif?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(13).png?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(14).png?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(15).png?raw=true" width="180">
 
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(16).gif?raw=true" width="180">
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(17).gif?raw=true" width="180">
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(18).gif?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(16).png?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(17).png?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(18).png?raw=true" width="180">
 
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(19).gif?raw=true" width="180">
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(20).gif?raw=true" width="180">
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(21).gif?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(19).png?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(20).png?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(21).png?raw=true" width="180">
 
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(22).gif?raw=true" width="180">
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(23).gif?raw=true" width="180">
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(24).gif?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(22).png?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(23).png?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(24).png?raw=true" width="180">
 
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(25).gif?raw=true" width="180">
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(26).gif?raw=true" width="180">
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(27).gif?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(25).png?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(26).png?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(27).png?raw=true" width="180">
 
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(28).gif?raw=true" width="180">
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(29).gif?raw=true" width="180">
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(30).gif?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(28).png?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(29).png?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(30).png?raw=true" width="180">
 
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(31).gif?raw=true" width="180">
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(32).gif?raw=true" width="180">
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(33).gif?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(31).png?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(32).png?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(33).png?raw=true" width="180">
 
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(34).gif?raw=true" width="180">
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(35).gif?raw=true" width="180">
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(36).gif?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(34).png?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(35).png?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(36).png?raw=true" width="180">
 
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(37).gif?raw=true" width="180">
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(38).gif?raw=true" width="180">
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(39).gif?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(37).png?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(38).png?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(39).png?raw=true" width="180">
 
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(40).gif?raw=true" width="180">
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(41).gif?raw=true" width="180">
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(42).gif?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(40).png?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(41).png?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(42).png?raw=true" width="180">
 
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(43).gif?raw=true" width="180">
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(44).gif?raw=true" width="180">
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(45).gif?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(43).png?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(44).png?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(45).png?raw=true" width="180">
 
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(46).gif?raw=true" width="180">
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(47).gif?raw=true" width="180">
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(48).gif?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(46).png?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(47).png?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(48).png?raw=true" width="180">
 
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(49).gif?raw=true" width="180">
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(50).gif?raw=true" width="180">
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(51).gif?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(49).png?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(50).png?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(51).png?raw=true" width="180">
 
-<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/gif/gif%20(52).gif?raw=true" width="180">
+<img src="https://github.com/ibrahim-isikli/awesome-readme-gifs/blob/main/embedded/png/gif%20(52).png?raw=true" width="180">
 
 </p>
